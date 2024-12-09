@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
+// EYDER DE JESUS ARROYO VEGA- ANDRES FELIPE PARDO BENAVIDES
 public class SimuladordeViajeInterplanetario {
     public static void main(String[] args) {
         // Crear un objeto Scanner para leer la entrada del usuario
